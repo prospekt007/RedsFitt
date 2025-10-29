@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import type { UserProfile, WorkoutLog } from '../types';
 import { getMotivationalQuote } from '../services/geminiService';

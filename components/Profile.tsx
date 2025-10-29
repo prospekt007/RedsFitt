@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { UserProfile, ExperienceLevel, UserGoal, Gender } from '../types';
 import Icon from './Icon';

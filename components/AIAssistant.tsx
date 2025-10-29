@@ -1,4 +1,3 @@
-
 import React, { useState, useCallback, useMemo } from 'react';
 import type { UserProfile, WorkoutLog, AiRoutine, LoggedExercise, WorkoutSet } from '../types';
 import { generateAIRoutine } from '../services/geminiService';

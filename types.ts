@@ -1,4 +1,3 @@
-
 export enum ExperienceLevel {
   Beginner = 'Principiante',
   Intermediate = 'Intermedio',

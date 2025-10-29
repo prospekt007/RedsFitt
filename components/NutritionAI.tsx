@@ -1,4 +1,3 @@
-
 import React, { useState, useRef, useEffect, useCallback } from 'react';
 import type { UserProfile, ChatMessage } from '../types';
 import { getNutritionAdvice } from '../services/geminiService';

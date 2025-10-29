@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { WorkoutLog, Exercise } from '../types';
 import Icon from './Icon';

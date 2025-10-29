@@ -1,4 +1,3 @@
-
 import { Exercise, MuscleGroup } from '../types';
 
 export const EXERCISES_DATA: Exercise[] = [
